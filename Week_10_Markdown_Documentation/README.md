@@ -16,9 +16,9 @@ I want to create an ordinal list.
 
 1. Apple
 2. Orange
-   A. Blood Orange
-   B. California Orange
-3. Banana
+     A. Blood Orange
+     B. California Orange
+4. Banana
 
 ### Sub-Sub-Header
 
