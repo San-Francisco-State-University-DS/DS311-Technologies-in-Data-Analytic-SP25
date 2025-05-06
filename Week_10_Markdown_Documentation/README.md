@@ -55,7 +55,7 @@ Reference the Python logo image from wikipedia.
 
 Reference an external link
 
-![Python Documentation Page](https://docs.python.org/3/)
+[Python Documentation Page](https://docs.python.org/3/)
 
 
 
