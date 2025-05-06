@@ -53,6 +53,12 @@ Reference the Python logo image from wikipedia.
 ![python logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png)
 
 
+Reference an external link
+
+![Python Documentation Page](https://docs.python.org/3/)
+
+
+
 | Country | City | Students' Name |
 | :---: | :---: | :---: |
 | Japan  | Tokyo | Mayomi |
