@@ -23,3 +23,30 @@ I want to create an ordinal list.
 ### Sub-Sub-Header
 
 Let's get started to write a **documentation** about coding in *Python*.
+
+### Embed Code in a Document
+
+This is the code I applied in my project. 
+
+``` {python}
+x = 2
+y = 5 * x
+z = y + x
+```
+
+This is the equation that we use to calculate average. 
+
+This is the notation for average, $\bar{x}$
+
+$$\bar{x} = \frac{\sum{x_i}}{n}$$
+
+
+
+
+
+
+
+
+
+
+
