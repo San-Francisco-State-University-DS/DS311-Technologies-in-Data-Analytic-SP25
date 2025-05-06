@@ -40,7 +40,23 @@ This is the notation for average, $\bar{x}$
 
 $$\bar{x} = \frac{\sum{x_i}}{n}$$
 
+#### Attach a image file from a local directory and from the internet
 
+This is the Python logo saved locally.
+
+![python logo](./python.jpg)
+
+(This image is going to fail to display)
+
+Reference the Python logo image from wikipedia.
+
+![python logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png)
+
+
+| Country | City | Students' Name |
+| :---: | :---: | :---: |
+| Japan  | Tokyo | Mayomi |
+| Spain  | Madrid | Jose  |
 
 
 
